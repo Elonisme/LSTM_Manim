@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:d:/PythonSource/ManimCourse/media/videos/Graphing/480p15/partial_movie_files/Graphing/3163782288_409531165_1434230070.mp4'
+file 'file:d:/PythonSource/ManimCourse/media/videos/Graphing/480p15/partial_movie_files/Graphing/2201830969_3085455144_3313660841.mp4'
+file 'file:d:/PythonSource/ManimCourse/media/videos/Graphing/480p15/partial_movie_files/Graphing/2201830969_398514950_586675191.mp4'
+file 'file:d:/PythonSource/ManimCourse/media/videos/Graphing/480p15/partial_movie_files/Graphing/2201830969_2748268291_1233626719.mp4'
+file 'file:d:/PythonSource/ManimCourse/media/videos/Graphing/480p15/partial_movie_files/Graphing/2201830969_398514950_4188457251.mp4'

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/PythonSource/ManimCourse/media/videos/ValueTrackers/720p30/partial_movie_files/ValueTrackers/1342159004_3841793695_1491547854.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/ValueTrackers/720p30/partial_movie_files/ValueTrackers/1353618911_398514950_2928093694.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/ValueTrackers/720p30/partial_movie_files/ValueTrackers/1353618911_3063848567_3759484006.mp4'

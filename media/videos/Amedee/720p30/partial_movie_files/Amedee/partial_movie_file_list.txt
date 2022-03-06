@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1342159004_1212260276_4203460604.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_1681415742_3956210102.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_2937681494_3028923837.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_398514950_25595988.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_3550956681_3664629474.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_391585332_1120018226.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Amedee/720p30/partial_movie_files/Amedee/1353618911_398514950_3608673792.mp4'
