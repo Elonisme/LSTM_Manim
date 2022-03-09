@@ -11,7 +11,8 @@ class Mylogo(Scene):
         nomo =Tex("Environmental Index Evaluation and Prediction Model",color=BLUE,font_size=20)
         VGroup(title,nomo).arrange(DOWN)
         img =ImageMobject('Xihua_University_logo.png')
-        
+
+        self.wait()
         self.play(FadeIn(img),run_time=2)
         self.play(
             Write(title),
