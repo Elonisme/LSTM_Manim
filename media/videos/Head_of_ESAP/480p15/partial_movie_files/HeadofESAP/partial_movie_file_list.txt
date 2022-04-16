@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/3163782288_3987251656_631829896.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/3163782288_1690763009_4174018169.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/2201830969_1613545711_668192566.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/2201830969_4160205052_666458573.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/2201830969_4047638053_3692639701.mp4'
+file 'file:D:/PythonSource/ManimCourse/media/videos/Head_of_ESAP/480p15/partial_movie_files/HeadofESAP/2201830969_3638504700_241358732.mp4'
